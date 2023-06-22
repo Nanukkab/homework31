@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-image: url(HEADER.png);
+    background-size: cover;
+}
+
+.div1 {
+    padding-top: 100px;
+    padding-left: 250px;
+    color: white;
+}
+
+pre{
+    color: white;
+    padding-left: 120px;
+    font-size: 20px;
+    margin-top: -60px;
+}
+
+button{
+    width: 150px;
+    height: 45px;
+    border: 1px solid white;
+    background: transparent;
+    color: white;
+    margin-left: 660px;
+    margin-top: 80px;
+ }
